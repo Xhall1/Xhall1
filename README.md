@@ -17,6 +17,7 @@
   
 - ⚡ Fun fact: I really like Star Wars and reading science fiction books.
 
+<h2>!My Skills<h2/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,py,react,figma,ae,ai,pr" />
