@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I'm currently studying software development.
   
-- 🧑‍💼 I’m currently I work as a digital artist.
+- 🧑‍💼 I’m currently work as a digital artist.
   
 - 💬 I speak three languages: Spanish (native), English (C1), and French (A2).
   
