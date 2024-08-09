@@ -20,7 +20,7 @@
 <h2>!My Skills<h2/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,py,react,figma,ae,ai,pr" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,py,react,figma,ps,ae,ai,pr" />
   </a>
 </p>
 
