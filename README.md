@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧑‍🎓 I'm currently studying software development.
+- 🧑‍🎓 I'm currently working at Citria as Full Stack developer.
   
 - 💬 I speak three languages: Spanish (native), English (C1), and French (A2).
   
