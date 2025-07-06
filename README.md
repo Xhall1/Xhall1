@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 Currently working at **Citria** as a **Full Stack Developer**  
 - 🎨 Also a passionate **UI/UX Designer**  
-- 💬 I speak three languages: Spanish (native), English (C1), and French (A2)  
+- 💬 I speak four languages: Spanish (native), English (C1), French and Polish. 
 - ⚡ Fun fact: I'm a big **Star Wars** fan and love reading science fiction books  
 
 ---
