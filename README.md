@@ -10,10 +10,10 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧑‍🎓 Currently working at **Citria** as a **Full Stack Developer**  
-- 🎨 Also a passionate **UI/UX Designer**  
-- 💬 I speak four languages: Spanish (native), English (C1), French and Polish. 
-- ⚡ Fun fact: I'm a big **Star Wars** fan and love reading science fiction books  
+- I'm a **Full Stack Developer**  
+- Also a passionate **UI/UX Designer**  
+- I speak four languages: Spanish (native), English (C1), French and Polish. 
+- Fun fact: I'm a big **Star Wars** fan and love reading science fiction books  
 
 ---
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <strong>Languages & Tools:</strong> JavaScript, <strong>TypeScript</strong>, HTML, CSS, Java, Python, React, Figma, Photoshop, After Effects, Illustrator, Premiere Pro, PowerShell, Bash, Linux, PostgreSQL, Oracle Database
+  <strong>Languages & Tools:</strong> JavaScript, <strong>TypeScript</strong>, C, C++, C#, HTML, CSS, Java, Python, React, Figma, Photoshop, After Effects, Illustrator, Premiere Pro, PowerShell, Bash, Linux, PostgreSQL, Oracle Database
 </p>
 
 ---
